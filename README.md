@@ -1,1 +1,1 @@
-# Cs50-Ai-solution-
+# Cs50-Ai-note-
