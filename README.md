@@ -21,3 +21,5 @@ Headlines :
 ○ Neural Networks
 
 ○ Language
+
+![Monty Python](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50AI_pll.png?itok=xPwrFW6A)
